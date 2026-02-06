@@ -1,6 +1,6 @@
 # -- Laporan Analisis Praktikum OOP Python -- #
-Nama: [Muhammad Taufiqurrohman]  
-Kelas: [Isi Kelas Kamu]  
+Nama: Muhammad Taufiqurrohman  
+Kelas: XI RPL 6  
 Mata Pelajaran: Pemrograman Berorientasi Objek
 
 
